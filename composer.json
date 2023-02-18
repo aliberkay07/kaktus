@@ -1,0 +1,16 @@
+{
+    "name": "aliberkay/kaktus",
+    "autoload": {
+        "psr-4": {
+            "Aliberkay\\Kaktus\\": "src/",
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ali Berkay",
+            "email": "aliberkaycakiroglu@gmail.com"
+        }
+    ],
+    "require": {}
+}
